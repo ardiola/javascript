@@ -7,8 +7,7 @@ function panggilShift() {
     // kota = kota.shift() //untuk mengilangkan data pertama pada array
     // console.log("==================")
 
-    var kota2 = kota.shift()
-    console.log(kota2)
+    kota.shift()
 
     return kota
 }
