@@ -5,7 +5,11 @@ function checkTipeData() {
         umur : 20
     };
 
-    console.log(typeof(data))
+    var jkl = "jjiiss"
+
+    var lkj = 99
+
+    console.log(typeof(lkj))
 }
 
 
