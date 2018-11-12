@@ -6,6 +6,7 @@ function panggilPerintahMap() {
         console.log(index)
         console.log(array)
     })
+
 }
 
 panggilPerintahMap()
